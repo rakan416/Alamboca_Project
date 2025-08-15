@@ -1,4 +1,4 @@
-# Alamboca Cinema Project 🎬
+# Alamboca Cinema 🎬
 
 A desktop app for booking movie tickets, dedicated to all the classic film lovers out there. Grab a ticket and your favorite snacks for a nostalgic movie night.
 
