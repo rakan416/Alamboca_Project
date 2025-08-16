@@ -31,7 +31,7 @@ This project is more than just an app; it's the first chapter of my journey into
 
 You've got two options to get this app running. Pick whichever works best for you.
 
-### \#\#\# Option 1: The Easy Way (.exe File) - (Recommended)
+### Option 1: The Easy Way (.exe File) - (Recommended)
 
 The simplest way to try the app without installing anything.
 
