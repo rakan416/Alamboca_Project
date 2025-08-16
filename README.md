@@ -35,9 +35,8 @@ You've got two options to get this app running. Pick whichever works best for yo
 
 The simplest way to try the app without installing anything.
 
-1.  Head over to the **[Releases](https://www.google.com/search?q=https://github.com/your-username/your-repo/releases)** page in this repo.
-2.  Download the `Alamboca.exe` file from the latest release.
-3.  Just double-click the file to run it. You're all set\!
+1.  Download the `Alamboca.exe` file from the latest release.
+2.  Just double-click the file to run it. You're all set\!
 
 ### \#\#\# Option 2: From the Source Code
 
