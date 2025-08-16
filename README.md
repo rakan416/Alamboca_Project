@@ -45,7 +45,7 @@ For fellow developers who want to peek at or tinker with the code.
 1.  **Clone this repository**
 
     ```sh
-    git clone https://github.com/rakan416/alamboca-project.git
+    git clone https://github.com/rakan416/Alamboca_Project.git
     ```
 
 2.  **Navigate into the project folder**
